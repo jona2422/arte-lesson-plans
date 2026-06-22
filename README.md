@@ -19,3 +19,5 @@ Un agente programado en la nube:
 5. Sube los cambios en una rama y abre un Pull Request para que Jonathan los revise.
 
 Jonathan revisa el PR el jueves en la mañana, ajusta lo que necesite y lo usa en clase.
+
+<!-- prueba de notificacion 054852 -->
