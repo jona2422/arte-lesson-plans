@@ -4,25 +4,26 @@
 > El agente lo lee cada jueves para saber en qué va cada grado y encadenar la semana siguiente,
 > y **lo actualiza** después de generar los nuevos lesson plans.
 
-**Última semana generada: 13 al 17 de julio de 2026.**
+**Última semana generada: 20 al 24 de julio de 2026.**
 
 ---
 
 ## 10° — Media Arts
 - **Proyecto en curso:** Unidad de audiovisuales/stop motion (serie fotográfica cerrada y entregada).
-- **Estado al cierre de la última semana:** unidad abierta: fundamentos del lenguaje audiovisual trabajados (glosario de planos y movimientos de cámara, con captura de 3 planos de un objeto); principios del stop motion comprendidos y primer ejercicio planeado (idea/mini-historia, storyboard de 4 a 6 viñetas y estimación de tomas por movimiento).
-- **Siguiente paso lógico:** producir el primer ejercicio de stop motion: montaje/soporte de cámara, captura de la secuencia fotograma a fotograma según el storyboard y primer ensamblado en video con revisión de fluidez y ritmo.
+- **Estado al cierre de la última semana:** primer ejercicio de stop motion producido: soporte de cámara montado, secuencia capturada fotograma a fotograma según el storyboard y primer ensamblado en video realizado, con revisión crítica de fluidez y ritmo (identificación de tramos a saltos y correcciones concretas anotadas en el Journal).
+- **Siguiente paso lógico:** iterar y cerrar el primer ejercicio de stop motion: recapturar/ajustar los tramos débiles detectados, afinar la velocidad (fotogramas por segundo) y el ritmo, y hacer una primera crítica breve entre pares del video terminado; luego planear un segundo ejercicio más ambicioso (más movimiento o narrativa) o el proyecto de cierre de la unidad.
 
 ## 11° — Diseño
 - **Proyecto en curso:** proyecto sumativo de la unidad de Branding = **manual de marca** (reimaginar una marca real).
-- **Estado al cierre de la última semana:** Unidad 3 en desarrollo: investigación de referentes de diseño industrial y lluvia de ideas visual (6 a 8 mini-bocetos) realizada; concepto de lámpara elegido y desarrollado en 2 a 3 bocetos más resueltos con materiales, manejo de la luz y soporte, evaluado con tabla de criterios de función y forma.
+- **Estado al cierre de la última semana:** Unidad 3 en desarrollo: paso del boceto al prototipo iniciado: lista de materiales elaborada y maqueta de estudio construida (estructura y paso de la luz); prototipo probado en función (estabilidad, luz, uso) y forma con la tabla de criterios completada sobre el objeto real, fotos de evidencia tomadas y 2 a 3 iteraciones concretas definidas y justificadas.
 - **Secciones del manual (unidad 2 cerrada):** portada/intro, brief, logotipo y usos, paleta, tipografía, mínimo 2 aplicaciones.
-- **Siguiente paso lógico:** pasar del boceto al prototipo/maqueta de la lámpara: lista de materiales, construcción de una maqueta de estudio (escala o tamaño real) y prueba de función y forma, iterando el concepto según lo que revele el prototipo.
+- **Siguiente paso lógico:** ejecutar las iteraciones sobre la maqueta y avanzar hacia el prototipo final de la lámpara: aplicar los ajustes de material/proporción/unión, refinar el acabado y preparar la documentación del proceso (bocetos, materiales, fotos del antes y después, justificación de decisiones) de cara a la presentación/entrega del "Will it lamp?".
 
 ## 12° — Visual Arts
-- **Proyecto en curso:** pieza del **Ciclo 2 – Identidad** ("¿cómo cuento quién soy a través del arte?" / "How can visual art construct, question, or reveal identity?").
-- **Estado al cierre de la última semana:** crítica formal de la pieza terminada realizada (defensa oral de 1 a 2 minutos y retroalimentación argumentada entre pares, registrada en el Journal); documentación del Ciclo 2 – Identidad cerrada (secuencia completa del proceso con evidencia visual por etapa, reflexión final y preguntas de interés para el próximo ciclo).
-- **Siguiente paso lógico:** abrir el siguiente ciclo/evaluación (transición Ciclo 2 → Ciclo 3): presentar los conceptos elevados del nuevo ciclo, arrancar la investigación de referentes y la formulación de una pregunta de indagación personal, retomando las preguntas anotadas al cerrar Identidad.
+- **Proyecto en curso:** **Ciclo 3 – Lugar y pertenencia** ("¿cómo el arte visual explora el lugar, el territorio y la pertenencia?" / "How can visual art explore place, territory, and belonging?"). Ciclo definido como extensión conceptual coherente tras Memoria (Ciclo 1) e Identidad (Ciclo 2), ya que CURRICULO.md solo detalla los dos primeros; queda anotado aquí para continuidad.
+- **Conceptos elevados del ciclo:** lugar, territorio, pertenencia, desplazamiento, frontera, espacio habitado, ausencia de lugar. **Referentes sugeridos:** Do Ho Suh, Doris Salcedo, El Anatsui, Andy Goldsworthy, Francis Alys, Gordon Matta-Clark.
+- **Estado al cierre de la última semana:** Ciclo 3 abierto: conceptos elevados presentados y mapa conceptual construido en el Journal; preguntas dejadas al cerrar Identidad retomadas y enlazadas al nuevo eje; investigación de 2 referentes de lugar/pertenencia realizada (pregunta, símbolos, materiales y formato de cada uno) y borrador de la pregunta de indagación personal formulado (2 a 3 versiones, con la más fuerte marcada y justificada).
+- **Siguiente paso lógico:** afinar y fijar la pregunta de indagación personal del Ciclo 3, profundizar la investigación de referentes (1 o 2 artistas más y análisis visual más detenido) y arrancar la fase de intención y sketches: primeras ideas plásticas, pruebas de material y decisiones iniciales de formato para la nueva pieza.
 
 ---
 
